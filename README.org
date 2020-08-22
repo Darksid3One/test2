@@ -1,4 +1,4 @@
 #+TITLE: Readme
 * this a test
-** TODO learn orgmode
-** TODO learn git and github
+ learn orgmode
+ learn git and github
